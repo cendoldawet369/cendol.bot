@@ -1,0 +1,2 @@
+# cendol.bot
+Bot
